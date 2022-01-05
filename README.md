@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @VictorHeDev
-  I am currently 24 years old and I am an App Academy graduate. I choose to spend my free time at the gym (powerlifting), trying new recipies and mastering old ones, and learning new things. 
+  I am currently 24 years old and I am an App Academy graduate. I have a Bachelor's of Science in Biomedical Sciences and I used to work as an Emergency Medical Technician and a Firefighter. 
 
 ## I am a Developer, Creator, and Continual Learner
 - 👀 I’m interested in ...

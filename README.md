@@ -1,14 +1,14 @@
 ### 👋 Hi, I’m @VictorHeDev
-  I am currently 24 years old and I am an App Academy graduate. I have a Bachelor's of Science in Biomedical Sciences and I used to work as an Emergency Medical Technician and a Firefighter. 
+  I am currently 25 years old and I am an App Academy graduate. I have a Bachelor's of Science in Biomedical Sciences and I used to work as an Emergency Medical Technician and a Firefighter. 
 
 ## I am a Developer, Creator, and Continual Learner
 - 👀 I’m interested in ...
   Web development, working on collaborative projects, and designing mobile applications. 
   
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 - 🌱 I’m currently learning ...
-  Data Structures and Algorithms
+  Data Structures and Algorithms in Python!
   
 - 💞️ I’m looking to collaborate on ...
   Fullstack projects!
@@ -19,7 +19,7 @@
 - 📫 How to reach me ...
   Send me a message at VictorHe97@gmail.com 
   [LinkedIn](https://www.linkedin.com/in/victor-he/)
-  [Instagram](https://www.instagram.com/victorhebull/)
+  [Instagram](https://www.instagram.com/woodie_he/)
   
 
 ### Languages and Tools:

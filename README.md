@@ -1,23 +1,20 @@
 ### 👋 Hi, I’m @VictorHeDev
-  I am currently 25 years old and I am an App Academy graduate. I have a Bachelor's of Science in Biomedical Sciences and I used to work as an Emergency Medical Technician and a Firefighter. 
+
+  I have a background in building ETL pipelines for ESG Scoring, and I am full-stack developer with multiple years of experience in Python, Golang, and Typescript.
 
 ## I am a Developer, Creator, and Continual Learner
+
 - 👀 I’m interested in ...
-  Web development, working on collaborative projects, and designing mobile applications. 
+  Furniture design, cooking delicious recipes, and snowboarding
   
 - 😄 Pronouns: He/Him/His
 
 - 🌱 I’m currently learning ...
-  Data Structures and Algorithms in Python!
-  
-- 💞️ I’m looking to collaborate on ...
-  Fullstack projects!
-
-- ⚡ Fun fact: When I'm not programming, you can find me powerlifting at the gym or cooking new recipes
+  Self-hosting/homelab/home server
 
   
 - 📫 How to reach me ...
-  Send me a message at VictorHe97@gmail.com 
+  Shoot me a message at VictorHe97@gmail.com 
   [LinkedIn](https://www.linkedin.com/in/victor-he/)
   [Instagram](https://www.instagram.com/woodie_he/)
   
